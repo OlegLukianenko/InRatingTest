@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.databinding:adapters:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/315a0cdb7e5c8ede9314d5ed7c4bbd0b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/452639715e4a27a9364c95124d3ab101/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android-support:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.16.aar/da653c920665010491c6d2a386345aac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8e232c650d18f9e0ec6c9f80b0f612c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/oleh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/df650bcf61212d46d4ba1a6b764a4068/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-2.16.aar/239d153ff78e07764ff5767cb782fb88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d055b6e09502d604f156db0d671c5004/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5269f176913826f5d5743f8ef167640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.0.aar/82544d901eaacfac4cce85b0bf1093e4/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/009a37d38e6be1e5f2daf55973ca87b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d62d27ee662c875e98882f2e6b5cc1f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cda5a3f3b521c31ffceab7eb2c5a06e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/405f2015776c58637fd4d29e89ff09e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b10511b1aab7432211b07874ffb7503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a08e6f77cca10984dd9c8b64e67e1d98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9fb00e9c6c1780f20af9bcbf94740406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/67342cd9c685c4dbbdd37a1d74523b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/046e123ed74cf259282c2bdf31d765e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad0a552770c13566fbb7f47213aa6213/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d39665c3ad7dc61d09fbb3295d82e587/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b6d44dcfb62da2a55c00541f96976cfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/39ca2dab057707a6ecedf147882b9d25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ff6f9c6c7d2c4cf30e62f8f7b9a3c4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/35a92c257ab6cfaad3ae73fcaacc5365/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9c3bb4ead8541865b1e747d6f728da7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0710e1d924015c03c2791ddb9b89850c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b0403543ace511152dbf4afee166033/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1ca8aea983b6428072e534598feab33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/d9f827f604455abacfbebad4323fc5ad/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/234894682e9307d8a2a040b9c56d37d1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7469c15266999a839522b33fcaea5463/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25faf66ee8ced98e23e1957e77963df3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/64c83844883790184c584ea53af717f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/978acac9b5fc91f9ad078dd2713f290c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eee0c800a28ec2be315b0ee3470f0192/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/381fca34a4e52e478ad566ba7475e099/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/oleh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/df650bcf61212d46d4ba1a6b764a4068/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/oleh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/df650bcf61212d46d4ba1a6b764a4068/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:22:5-28:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/35a92c257ab6cfaad3ae73fcaacc5365/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/35a92c257ab6cfaad3ae73fcaacc5365/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:15:9-57
+activity#inratind.test.application.app.splash.SplashActivity
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:17:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:21:27-74
+activity#inratind.test.application.app.home.MainActivity
+ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:25:9-26:78
+	android:name
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml:26:13-75
+uses-sdk
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/315a0cdb7e5c8ede9314d5ed7c4bbd0b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/315a0cdb7e5c8ede9314d5ed7c4bbd0b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/452639715e4a27a9364c95124d3ab101/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/452639715e4a27a9364c95124d3ab101/AndroidManifest.xml:22:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.16.aar/da653c920665010491c6d2a386345aac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.16.aar/da653c920665010491c6d2a386345aac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8e232c650d18f9e0ec6c9f80b0f612c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8e232c650d18f9e0ec6c9f80b0f612c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/oleh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/df650bcf61212d46d4ba1a6b764a4068/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/oleh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/df650bcf61212d46d4ba1a6b764a4068/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-2.16.aar/239d153ff78e07764ff5767cb782fb88/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.16] /home/oleh/.gradle/caches/transforms-1/files-1.1/dagger-android-2.16.aar/239d153ff78e07764ff5767cb782fb88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d055b6e09502d604f156db0d671c5004/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d055b6e09502d604f156db0d671c5004/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5269f176913826f5d5743f8ef167640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5269f176913826f5d5743f8ef167640/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.0.aar/82544d901eaacfac4cce85b0bf1093e4/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.0.aar/82544d901eaacfac4cce85b0bf1093e4/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/009a37d38e6be1e5f2daf55973ca87b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/009a37d38e6be1e5f2daf55973ca87b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d62d27ee662c875e98882f2e6b5cc1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d62d27ee662c875e98882f2e6b5cc1f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cda5a3f3b521c31ffceab7eb2c5a06e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cda5a3f3b521c31ffceab7eb2c5a06e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/405f2015776c58637fd4d29e89ff09e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/405f2015776c58637fd4d29e89ff09e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b10511b1aab7432211b07874ffb7503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6b10511b1aab7432211b07874ffb7503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a08e6f77cca10984dd9c8b64e67e1d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a08e6f77cca10984dd9c8b64e67e1d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9fb00e9c6c1780f20af9bcbf94740406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9fb00e9c6c1780f20af9bcbf94740406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/67342cd9c685c4dbbdd37a1d74523b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/67342cd9c685c4dbbdd37a1d74523b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/046e123ed74cf259282c2bdf31d765e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/046e123ed74cf259282c2bdf31d765e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad0a552770c13566fbb7f47213aa6213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ad0a552770c13566fbb7f47213aa6213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d39665c3ad7dc61d09fbb3295d82e587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d39665c3ad7dc61d09fbb3295d82e587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b6d44dcfb62da2a55c00541f96976cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b6d44dcfb62da2a55c00541f96976cfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/39ca2dab057707a6ecedf147882b9d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/39ca2dab057707a6ecedf147882b9d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/28677fd82ed1e3561f448ea79d1e314f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ff6f9c6c7d2c4cf30e62f8f7b9a3c4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ff6f9c6c7d2c4cf30e62f8f7b9a3c4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/35a92c257ab6cfaad3ae73fcaacc5365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/35a92c257ab6cfaad3ae73fcaacc5365/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9c3bb4ead8541865b1e747d6f728da7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b9c3bb4ead8541865b1e747d6f728da7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0710e1d924015c03c2791ddb9b89850c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0710e1d924015c03c2791ddb9b89850c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b0403543ace511152dbf4afee166033/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b0403543ace511152dbf4afee166033/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1ca8aea983b6428072e534598feab33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f1ca8aea983b6428072e534598feab33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/d9f827f604455abacfbebad4323fc5ad/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/d9f827f604455abacfbebad4323fc5ad/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/234894682e9307d8a2a040b9c56d37d1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/234894682e9307d8a2a040b9c56d37d1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:exifinterface:27.1.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7469c15266999a839522b33fcaea5463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7469c15266999a839522b33fcaea5463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25faf66ee8ced98e23e1957e77963df3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/25faf66ee8ced98e23e1957e77963df3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/64c83844883790184c584ea53af717f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/64c83844883790184c584ea53af717f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/978acac9b5fc91f9ad078dd2713f290c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/978acac9b5fc91f9ad078dd2713f290c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eee0c800a28ec2be315b0ee3470f0192/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eee0c800a28ec2be315b0ee3470f0192/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/381fca34a4e52e478ad566ba7475e099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/oleh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/381fca34a4e52e478ad566ba7475e099/AndroidManifest.xml:20:5-44
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		ADDED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oleh/AndroidStudioProjects/InRating/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/oleh/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/42211bc979b2540eb335f59894ee8405/AndroidManifest.xml:24:13-83
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/oleh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/cb024abc48861e43cf9f301bd7af0aa5/AndroidManifest.xml:9:13-64
